@@ -19,6 +19,8 @@
 
 - [Image](#image)
 
+-[Link](#Link) 
+
 
 ## Description
 Allows users to search videos, displaying a list of results, user may view the video on the video player by choosing the video that best meets thier interest. 
@@ -46,4 +48,7 @@ You may view GitHub profile here:
 
 ## Image
 ![image](https://user-images.githubusercontent.com/68489432/118384563-fbf89a80-b5d4-11eb-9b61-6daae4f40d12.png)
+
+## Link
+https://samanthafoster17.github.io/React-VideoSearch/
 
