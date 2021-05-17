@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-VideoSearch/static/css/main.3b17d08e.chunk.css",
+    "main.js": "/React-VideoSearch/static/js/main.4a6240f6.chunk.js",
+    "main.js.map": "/React-VideoSearch/static/js/main.4a6240f6.chunk.js.map",
+    "runtime-main.js": "/React-VideoSearch/static/js/runtime-main.91ac2e16.js",
+    "runtime-main.js.map": "/React-VideoSearch/static/js/runtime-main.91ac2e16.js.map",
+    "static/js/2.6d32c5f0.chunk.js": "/React-VideoSearch/static/js/2.6d32c5f0.chunk.js",
+    "static/js/2.6d32c5f0.chunk.js.map": "/React-VideoSearch/static/js/2.6d32c5f0.chunk.js.map",
+    "index.html": "/React-VideoSearch/index.html",
+    "static/css/main.3b17d08e.chunk.css.map": "/React-VideoSearch/static/css/main.3b17d08e.chunk.css.map",
+    "static/js/2.6d32c5f0.chunk.js.LICENSE.txt": "/React-VideoSearch/static/js/2.6d32c5f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91ac2e16.js",
+    "static/js/2.6d32c5f0.chunk.js",
+    "static/css/main.3b17d08e.chunk.css",
+    "static/js/main.4a6240f6.chunk.js"
+  ]
+}
